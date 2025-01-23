@@ -1,5 +1,3 @@
-# Instructions
+# Conclusiones
+1. Si bien ambos metodos permmiten la imputación uno utiliza la mediana para valores faltantes y el otro 
 
-Include here a short paragraph (less than 70 words) explaining what you 
-learned of the two chosen methods. The purpose is just to reflect on what
-you did. 
